@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/yoduboin/Create%20first%20pipeline/_apis/build/status/YoanSchutte.FirstPipeline?branchName=master)](https://dev.azure.com/yoduboin/Create%20first%20pipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
